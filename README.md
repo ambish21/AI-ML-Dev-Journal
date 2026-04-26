@@ -1,8 +1,5 @@
 # AI-ML-Dev-Journal
 Daily learning journal of Python, AI, and Machine Learning with hands-on coding practice and problem solving.
-# 🤖 AI/ML Developer Journey Journal
-
-## 🚀 About This Repo
 
 This repository tracks my daily learning progress in Python, AI, Machine Learning, and programming logic.
 
@@ -15,13 +12,6 @@ Each day contains:
 * Code practice
 * Small problems
 * Concepts learned
-
-Example:
-
-* Day 01 → Variables & Data Types
-* Day 02 → Conditions (if-else)
-* Day 03 → Loops
-
 ---
 
 ## 🎯 Goal
@@ -45,3 +35,7 @@ Example:
 ## 🔥 Progress Rule
 
 👉 One day = One concept + practice + push to GitHub
+
+* Day 01 → Variables & Data Types
+* Day 02 →even odd factorial
+* Day 03 → Loops
