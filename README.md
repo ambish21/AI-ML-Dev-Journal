@@ -37,5 +37,6 @@ Each day contains:
 👉 One day = One concept + practice + push to GitHub
 
 * Day 01 → Variables & Data Types
-* Day 02 →even odd factorial
+* Day 02 → even odd factorial
 * Day 03 → Loops
+* Day 04 → Conditions
