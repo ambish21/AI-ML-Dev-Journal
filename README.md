@@ -40,3 +40,4 @@ Each day contains:
 * Day 02 → even odd factorial
 * Day 03 → Loops
 * Day 04 → Conditions
+* Day 05 → Calculator Project (using html,css,js)
