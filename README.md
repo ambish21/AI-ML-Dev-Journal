@@ -9,9 +9,9 @@ This repository tracks my daily learning progress in Python, AI, Machine Learnin
 
 Each day contains:
 
-* Code practice
+* Code practice 
 * Small problems
-* Concepts learned
+* Concepts learned  
 ---
 
 ## 🎯 Goal
@@ -40,4 +40,5 @@ Each day contains:
 * Day 02 → even odd factorial
 * Day 03 → Loops
 * Day 04 → Conditions
-* Day 05 → Calculator Project (using html,css,js)
+* Day 05 → Calculator Project (using html,css)
+* Day 06 → update Calculator Project (add js)
