@@ -43,4 +43,4 @@ Each day contains:
 * Day 05 → Calculator Project (using html,css)
 * Day 06 → update Calculator Project (add js)
 * Day 07 → nested loop done
-* Day 08 → add calculator in portfolio
+* Day 08 → added calculator in portfolio
