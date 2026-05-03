@@ -44,3 +44,5 @@ Each day contains:
 * Day 06 → update Calculator Project (add js)
 * Day 07 → nested loop done
 * Day 08 → added calculator in portfolio
+* Day 09 → operators and variables in python done
+  
