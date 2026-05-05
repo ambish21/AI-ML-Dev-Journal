@@ -45,4 +45,4 @@ Each day contains:
 * Day 07 → nested loop done
 * Day 08 → added calculator in portfolio
 * Day 09 → operators and variables in python done
-* Day 10 →
+* Day 10 →added operator(logical) code.
