@@ -48,5 +48,6 @@ Each day contains:
 * Day 10 → added operator(logical) code.
 * Day 11 → variables  in pyhthon done.
 * Day 12 → number guessing game done in miniprojects
+* Day 13 → while loop code and loop control(break,continous) code done.
 
 
