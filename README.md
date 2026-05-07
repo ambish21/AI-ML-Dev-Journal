@@ -49,5 +49,6 @@ Each day contains:
 * Day 11 → variables  in pyhthon done.
 * Day 12 → number guessing game done in miniprojects
 * Day 13 → while loop code and loop control(break,continous) code done.
-
+* Day 14 →added data structre code (list
+)
 
