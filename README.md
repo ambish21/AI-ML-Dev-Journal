@@ -50,6 +50,6 @@ Each day contains:
 * Day 12 → number guessing game done in miniprojects
 * Day 13 → while loop code and loop control(break,continous) code done.
 * Day 14 → added data structre code (list)
-* Day 15 → added data structre code (tuple)
+* Day 15 → added data structre code (tuple).
 
 
