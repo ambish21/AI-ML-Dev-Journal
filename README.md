@@ -54,5 +54,5 @@ Each day contains:
 * Day 16 → age calculator project started.
 * Day 17 → working on age calculator project
 * Day 18 → added python data structure codes.
-* Day 19 → String Handling done(string methods,slicing,formatting)
-
+* Day 19 → String Handling done(string methods,slicing)
+* Day 20 → string formatting 
