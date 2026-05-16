@@ -56,5 +56,5 @@ Each day contains:
 * Day 18 → added python data structure codes.
 * Day 19 → String Handling done(string methods,slicing)
 * Day 20 → string formatting 
-* Day 21 →Problem Solving Practice done
-* Day 22 →
+* Day 21 → Problem Solving Practice done
+* Day 22 → Sequence & Logic Building concept
