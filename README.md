@@ -59,4 +59,5 @@ Each day contains:
 * Day 21 → Problem Solving Practice done
 * Day 22 → Sequence & Logic Building concept codes done
 * Day 23 → functions done
-* Day 24 →
+* Day 24 → parameters & return values in function done
+* 
