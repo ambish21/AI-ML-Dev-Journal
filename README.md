@@ -60,4 +60,4 @@ Each day contains:
 * Day 22 → Sequence & Logic Building concept codes done
 * Day 23 → functions done
 * Day 24 → parameters & return values in function done
-* 
+* Day 25 → code reuse in function done
