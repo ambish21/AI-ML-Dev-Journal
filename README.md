@@ -38,7 +38,7 @@ Each day contains:
 
 * Day 01 → Variables & Data Types
 * Day 02 → even odd factorial
-* Day 03 → Loops
+* Day 03 → Loops(for,while,loop control)
 * Day 04 → Conditions(if,elif,else)
 * Day 05 → Calculator Project (using html,css)
 * Day 06 → update Calculator Project (add js)
