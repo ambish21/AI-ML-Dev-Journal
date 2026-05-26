@@ -58,3 +58,4 @@ Each day contains:
 * Day 20 → string formatting 
 * Day 21 → Problem Solving Practice done
 * Day 22 → Sequence & Logic Building concept done
+* Day 23 → task done
