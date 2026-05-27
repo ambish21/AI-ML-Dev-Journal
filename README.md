@@ -62,4 +62,3 @@ Each day contains:
 * Day 24 → parameters & return values in function done
 * Day 25 → code reuse in function done.
 * Day 26 →working on age calculator task of CodeAlpha
->>>>>>> 6c427c301efff7575bf79869114b869420029f9b
