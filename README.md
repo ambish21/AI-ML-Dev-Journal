@@ -38,8 +38,8 @@ Each day contains:
 
 * Day 01 → Variables & Data Types
 * Day 02 → even odd factorial
-* Day 03 → Loops
-* Day 04 → Conditions
+* Day 03 → Loops(for,while,loop control)
+* Day 04 → Conditions(if,elif,else)
 * Day 05 → Calculator Project (using html,css)
 * Day 06 → update Calculator Project (add js)
 * Day 07 → nested loop done
@@ -57,5 +57,9 @@ Each day contains:
 * Day 19 → String Handling done(string methods,slicing)
 * Day 20 → string formatting 
 * Day 21 → Problem Solving Practice done
-* Day 22 → Sequence & Logic Building concept done
-* Day 23 → task done
+* Day 22 → Sequence & Logic Building concept codes done
+* Day 23 → functions done
+* Day 24 → parameters & return values in function done
+* Day 25 → code reuse in function done.
+* Day 26 →working on age calculator task of CodeAlpha
+>>>>>>> 6c427c301efff7575bf79869114b869420029f9b
