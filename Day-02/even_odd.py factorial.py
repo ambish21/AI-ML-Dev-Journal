@@ -1,3 +1,5 @@
+# Day 2 - Even or Odd
+
 num = int(input("Enter number: "))
 
 if num % 2 == 0:
