@@ -1,3 +1,4 @@
+# Day 4 - Conditions Practice
 num = int(input("Enter number: "))
 
 
