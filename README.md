@@ -65,4 +65,5 @@ Each day contains:
 * Day 27 → work on loops
 * Day 28 → work on conditions 
 * Day 29 → work on even-odd code
-* Day 30 → task completed
+* Day 30 → task completed succesfully.
+
